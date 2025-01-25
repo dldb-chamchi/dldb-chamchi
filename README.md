@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E768&width=435&lines=Hi+there%2C+dldb-chamchi's+github+page)](https://git.io/typing-svg)
+
 
 <!--
 **dldb-chamchi/dldb-chamchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E768&width=435&lines=Hi+there%2C+dldb-chamchi's+github+page)](https://git.io/typing-svg)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldb-chamchi&show_icons=true&theme=ambient_gradient)
+
+</div>
 
