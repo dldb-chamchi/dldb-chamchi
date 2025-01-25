@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 
 </div>
 
+<img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=java&logoColor=61DAFB" />
