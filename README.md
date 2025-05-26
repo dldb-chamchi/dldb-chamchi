@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dladkfl)](https://solved.ac/dladkfl/)
 </div>
 
-<img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=java&logoColor=61DAFB" />
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{dldb-chamchi}?pet-id=1" width="1000" height="120"/>
+</a>
