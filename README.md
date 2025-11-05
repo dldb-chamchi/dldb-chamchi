@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldb-chamchi&show_icons=true&theme=ambient_gradient)
--->
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dladkfl)](https://solved.ac/dladkfl/)
-
+-->
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{dldb-chamchi}"/>
