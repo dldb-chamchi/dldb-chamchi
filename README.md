@@ -1,25 +1,28 @@
-<!--
-**dldb-chamchi/dldb-chamchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Project
+* 한기대 수강신청 연습 사이트(한클)
+* 청주시 쓰레기통 위치 제공 사이트
+* Discord - Notion 스터디 도움 봇
 
-Here are some ideas to get you started:
+## Award
+<table>
+  <tr>
+    <th align="center">Title</th>
+    <th align="center">Type</th>
+    <th align="center">Host</th>
+    <th align="center">Date</th>
+  </tr>
+    <tr>
+    <td align="center">제 10, 11, 12 프로그래밍 경시대회</td>
+    <td align="center">동상</td>
+    <td align="center">KOREATECH</td>
+    <td align="center">2023, 2024, 2025</td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Profile
+* KOREATECH(한국기술교육대학교) 컴퓨터공학부 - (2023.03.02 ~ )
 
-<div align="center">
-  
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=30&pause=1000&color=F7DC5F&center=true&vCenter=true&width=435&lines=Hi+there%2C+dldb-chamchi's+github+page)](https://git.io/typing-svg)
+## Extra
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dladkfl)](https://solved.ac/dladkfl/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldb-chamchi&show_icons=true&theme=ambient_gradient)
-
-</div>
+### Algorithm
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dladkfl)](https://solved.ac/dladkfl)
