@@ -1,7 +1,7 @@
 ## Project
-* 한기대 수강신청 연습 사이트(한클)
-* 청주시 쓰레기통 위치 제공 사이트
-* Discord - Notion 스터디 도움 봇
+* [한기대 수강신청 연습 사이트(한클)](https://github.com/dldb-chamchi/koreatech-sugang-practice)
+* [청주시 쓰레기통 위치 제공 사이트](https://github.com/dldb-chamchi/cheongju-trash-bin-location)
+* [Discord - Notion 스터디 도움 봇](https://github.com/dldb-chamchi/discord-bot-time)
 
 ## Award
 <table>
