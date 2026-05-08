@@ -1,5 +1,6 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=30&pause=1000&color=F7DC5F&center=true&vCenter=true&width=435&lines=Hi+there%2C+dldb-chamchi's+github+page)](https://git.io/typing-svg)
-
+<!-- 
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=30&pause=1000&color=F7DC5F&center=true&vCenter=true&width=435&lines=Hi+there%2C+dldb-chamchi's+github+page)](https://git.io/typing-svg)
+!-->
 ## Project
 * [한기대 수강신청 연습 사이트(한클)](https://github.com/dldb-chamchi/koreatech-sugang-practice)
 * [청주시 쓰레기통 위치 제공 사이트](https://github.com/dldb-chamchi/cheongju-trash-bin-location)
