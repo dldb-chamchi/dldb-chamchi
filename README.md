@@ -24,6 +24,7 @@
 
 ## Profile
 * KOREATECH(한국기술교육대학교) 컴퓨터공학부 - (2023.03.02 ~ )
+* Overall GPA 4.27/4.5
 
 ## Extra
 
