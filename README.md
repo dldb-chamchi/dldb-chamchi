@@ -22,9 +22,26 @@
   </tr>
 </table>
 
-## Profile
-* KOREATECH(한국기술교육대학교) 컴퓨터공학부 - (2023.03.02 ~ )
-* Overall GPA 4.27/4.5
+## 🪪 Profile
+
+<table>
+  <tr>
+    <td><b>School</b></td>
+    <td colspan="2">KOREATECH, Computer Science and Engineering</td>
+  </tr>
+  <tr>
+    <td><b>GPA</b></td>
+    <td colspan="2">Overall 4.27 / 4.5</td>
+  </tr>
+  <tr>
+    <td><b>Certificate</b></td>
+    <td colspan="2">정보처리기사</td>
+  </tr>
+  <tr>
+    <td><b>Language</b></td>
+    <td colspan="2">TOEIC Speaking IH</td>
+  </tr>
+</table>
 
 ## Extra
 ### [Algorithm](https://github.com/dldb-chamchi/codingSpace)
